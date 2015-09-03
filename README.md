@@ -9,11 +9,11 @@ A Uncaught Exception Handler library like as Square's [LeakCanary](https://githu
 In your `build.gradle`:
 
 ```gradle
-  //I uploaded it in 21:03 Sep 2, so that it may not take effect in maven, please wait for a moment.
-  dependencies {
-   debugCompile 'me.drakeet.library:crashwoodpechker:0.9'
-   //I will add a releaseCompile to compile do nothing with the same class and package in your release build. Comming soon... 
-  }
+//I uploaded it in 21:03 Sep 2, so that it may not take effect in maven, please wait for a moment.
+dependencies {
+  debugCompile 'me.drakeet.library:crashwoodpechker:0.9'
+  //I will add a releaseCompile to compile do nothing with the same class and package in your release build. Comming soon... 
+}
 ```
 
 In your `Application` class:
