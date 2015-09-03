@@ -12,7 +12,7 @@ In your `build.gradle`:
   //I uploaded it in 21:03 Sep 2, so that it may not take effect in maven, please wait for a moment.
   dependencies {
    debugCompile 'me.drakeet.library:crashwoodpechker:0.9'
-   //I will add a releaseCompile to compile do nothing with the same class and package in your debug build. Comming soon... 
+   //I will add a releaseCompile to compile do nothing with the same class and package in your release build. Comming soon... 
   }
 ```
 
