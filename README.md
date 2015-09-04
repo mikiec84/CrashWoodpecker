@@ -9,11 +9,13 @@ A Uncaught Exception Handler library like as Square's [LeakCanary](https://githu
 In your `build.gradle`:
 
 ```gradle
-  //I uploaded it in 21:03 Sep 2, so that it may not take effect in maven, please wait for a moment.
+  //I updated and uploaded it in 19:44 Sep 4, so that it may not take effect in maven, please wait for a moment.
   dependencies {
-   debugCompile 'me.drakeet.library:crashwoodpechker:0.9'
+   debugCompile 'me.drakeet.library:crashwoodpecker:0.9.1'
   }
 ```
+
+** 注: 上次我把`crashwoodpecker` 拼写错了, QAQ, 已经改正了!! 如果使用旧的地址, 请自行更正!! **
 
 In your `Application` class:
 
