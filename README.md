@@ -1,6 +1,6 @@
 #CrashWoodpecker
 
-A Uncaught Exception Handler library like as Square's [LeakCanary](https://github.com/square/leakcanary).
+An uncaught exception handler library like as Square's [LeakCanary](https://github.com/square/leakcanary).
 
 ![screenshot.png](art/s2.png)
 
@@ -29,7 +29,7 @@ public class ExampleApplication extends Application {
 }
 ```
 
-**That is all!** CrashWoodpecker will automatically show a Activity when your app crash with uncaught exceptions in your debug build.
+**That is all!** CrashWoodpecker will automatically show an Activity when your app crash with uncaught exceptions in your debug build.
 
 Demo apk download: https://github.com/drakeet/CrashWoodpechker/releases/download/v0.9/LittleWood.apk
 
