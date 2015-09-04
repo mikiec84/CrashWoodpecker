@@ -9,10 +9,10 @@ An uncaught exception handler library like as Square's [LeakCanary](https://gith
 In your `build.gradle`:
 
 ```gradle
-  //I updated and uploaded it in 19:44 Sep 4, so that it may not take effect in maven, please wait for a moment.
-  dependencies {
-   debugCompile 'me.drakeet.library:crashwoodpecker:0.9.1'
-  }
+//I updated and uploaded it in 19:44 Sep 4, so that it may not take effect in maven, please wait for a moment.
+dependencies {
+  debugCompile 'me.drakeet.library:crashwoodpecker:0.9.1'
+}
 ```
 
 **注: 上次我把`crashwoodpecker` 拼写错了, QAQ, 已经改正了!! 如果使用旧的地址, 请自行更正!!**
