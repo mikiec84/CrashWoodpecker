@@ -1,1 +1,1 @@
-include ':app', ':crashwoodpecker'
+include ':app', ':crashwoodpecker', ':crashwoodpecker-do-nothing'

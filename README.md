@@ -8,9 +8,11 @@ An uncaught exception handler library like as Square's [LeakCanary](https://gith
 
 In your `build.gradle`:
 
+//I updated and uploaded `crashwoodpecker-do-nothing` in 13:49 Sep 6, so that it may not take effect in maven, please wait for a moment.
 ```gradle
 dependencies {
   debugCompile 'me.drakeet.library:crashwoodpecker:0.9.1'
+  releaseCompile 'me.drakeet.library:crashwoodpecker-do-nothing:0.9.1'
 }
 ```
 
