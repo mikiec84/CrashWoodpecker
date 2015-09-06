@@ -1,6 +1,6 @@
 #CrashWoodpecker
 
-An uncaught exception handler library like as Square's [LeakCanary](https://github.com/square/leakcanary).
+An uncaught exception handler library lIke as Square's [LeakCanary](https://github.com/square/leakcanary).
 
 ![screenshot.png](art/s2.png)
 
